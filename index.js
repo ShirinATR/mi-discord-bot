@@ -19,7 +19,7 @@ const client = new Client({
 // CONFIGURACIÓN
 // =========================
 
-const CANAL_BIENVENIDA = 'ID_DEL_CANAL_BIENVENIDA';
+const CANAL_BIENVENIDA = "1410064532478365928";
 
 // =========================
 // BOT LISTO
@@ -183,4 +183,4 @@ function convertirTiempo(tiempo) {
 // LOGIN
 // =========================
 
-client.login(process.env.DISCORD_TOKEN);
+client.login("8fe3b2b1a81655d728f60b4f8ece6f7a1b391d02081ab69b1469edcbf3e96143");
